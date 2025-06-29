@@ -2,23 +2,7 @@
 
 A modular approach where a software system is divided into small, independent services that communicate through APIs.
 
----
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Monolithic vs Microservices](#-monolithic-vs-microservices)
-- [Key Concepts](#-key-concepts)
-- [Architecture Components](#-architecture-components)
-- [Example Implementation](#-example-implementation)
-- [Benefits & Challenges](#-benefits--challenges)
-- [Best Practices](#-best-practices)
-- [Getting Started](#-getting-started)
-- [Additional Resources](#-additional-resources)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
 
 ## 🔍 Overview
 
@@ -286,13 +270,8 @@ Push and open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📄 Documentation
-👉 Full Google Docs Guide
+👉 Full Google Docs Guide- https://docs.google.com/document/d/1QPLAIZL1gMlYhBbabdXqN8eaDQEiG3cPesEAg0kxJ_s/edit?addon_store&tab=t.0#heading=h.hzzid1bw6ttq
 
-yaml
-Copy
-Edit
-
----
 
 If you'd like, I can also:
 - Generate a downloadable `.md` file
